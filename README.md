@@ -1,5 +1,5 @@
 <h1 align=center>
-  👋 Nice to see you there!
+  👋 Nice to see you here!
 </h1>
 
 <p align=center>
