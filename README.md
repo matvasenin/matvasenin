@@ -40,7 +40,7 @@ hobbies = [
   "homelabbing"
 ]
 preferred = {
-  editor = "vscode"
+  editor = "vscode",
   os = "linux"
 }
 ```
