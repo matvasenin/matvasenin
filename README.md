@@ -13,6 +13,7 @@
   <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-FF1E56?style=flat-square&logo=turborepo&logoColor=white">
 </p>
 <p align=center>
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-c99703?style=flat-square&logo=linux&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
