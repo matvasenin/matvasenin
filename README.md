@@ -28,13 +28,12 @@
 [About]
 username = "matvasenin"
 realname = "Matvey Vasenin"
-homepage = "https://runtimezen.ru/about"
+homepage = "https://hexframe.ru/about"
 email = "mat.vasenin@yandex.ru"
 location = "Russia"
 languages = ["russian", "english"]
 career = {
-  tags = ["frontend", "devops"],
-  email = "contact@runtimezen.ru"
+  tags = ["frontend", "devsecops"],
 }
 hobbies = [
   "software development",
