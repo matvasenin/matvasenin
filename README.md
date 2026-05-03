@@ -1,6 +1,10 @@
 <h1 align=center>
-  👋 Nice to see you here!
+  👋 Добро пожаловать!
 </h1>
+<p align=center>
+  <code>Welcome! ¡Hola! Bonjour! Ciao! 你好! مرحبا! Olá! Hallo! こんにちは!</code>
+</p>
+<hr>
 
 <p align=center>
   <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-FF1E56?style=flat-square&logo=turborepo&logoColor=white">
@@ -25,6 +29,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="LXC" src="https://img.shields.io/badge/LXC-333333?style=flat-square&logo=linuxcontainers&logoColor=white">
 </p>
+<hr>
 
 ```toml
 [About]
